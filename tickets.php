@@ -21,7 +21,8 @@ $train_group = ['','First Class','Economy'];
         <div class="card-header rounded-0">
             <h5 class="card-title">Generated Tickets</h5>
             <div class="card-tools">
-                <button class="btn btn-sm btn-flat btn-success" id="print"><i class="fa fa-print"></i> Print</button>
+            <button class="btn btn-sm btn-flat btn-success" id="edit"><i class="fa fa-pencil-square"></i> Edit</button>
+            <button class="btn btn-sm btn-flat btn-success" id="print"><i class="fa fa-print"></i> Print</button>  
             </div>
         </div>
         <div class="card-body rounded-0">
